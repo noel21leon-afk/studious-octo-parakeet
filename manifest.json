@@ -1,0 +1,31 @@
+{
+  "name": "e-ORB MARINE — Oil Record Book Training & Practice",
+  "short_name": "e-ORB MARINE",
+  "description": "Electronic Oil Record Book training and practice tool for marine engineers and students. Not an IMO/Flag-State/Class approved record book.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050f1c",
+  "theme_color": "#050f1c",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
